@@ -1,5 +1,5 @@
-#Author: Eveshogweyore Alle
-#Implementing the Singly Linked List Data Structure Using Python3
+#Author: Eveshogweyore Alle G.
+#Implementing the Singly Linked List Data Structure Using Python v3
 
 
 ##### The following classes have been created: #####
@@ -307,5 +307,6 @@ the_linked_list.insert('Solomon')
 #the_linked_list3 = LinkedList('Ball', 'Shoes', 'Bag', 'Drugs')
 #the_linked_list2.reverse2()
 
+#Output the sample linked list created
 print(the_linked_list)
 print(repr(the_linked_list))
